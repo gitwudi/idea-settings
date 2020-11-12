@@ -1,0 +1,12 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="GuiDesigner.CreateListener" />
+  <action id="HippieCompletion" />
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OverrideMethods" />
+</keymap>
