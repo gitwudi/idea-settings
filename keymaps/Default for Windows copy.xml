@@ -5,8 +5,27 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="GuiDesigner.CreateListener" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="HippieCompletion" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NextOccurence" />
   <action id="OverrideMethods" />
+  <action id="PreviousOccurence" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
