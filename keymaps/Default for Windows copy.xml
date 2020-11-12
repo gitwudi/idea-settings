@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath" />
   <action id="GuiDesigner.CreateListener" />
   <action id="GuiDesigner.Duplicate" />
   <action id="HippieCompletion" />
@@ -24,6 +25,9 @@
   <action id="NextOccurence" />
   <action id="OverrideMethods" />
   <action id="PreviousOccurence" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
