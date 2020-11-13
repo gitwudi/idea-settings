@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
@@ -35,6 +36,9 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
