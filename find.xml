@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [qf-agenttool2a-bff]'" />
-    <option name="defaultScopeName" value="Directory '... [qf-agenttool2a-bff]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [qf-agenttool2a-bff]'" />
+    <option name="customScope" value="File '...\qf-agenttool2a-bff-facade\pom.xml [qf-agenttool2a-bff-facade]'" />
+    <option name="defaultScopeName" value="File '...\qf-agenttool2a-bff-facade\pom.xml [qf-agenttool2a-bff-facade]'" />
+    <option name="SEARCH_SCOPE" value="File '...\qf-agenttool2a-bff-facade\pom.xml [qf-agenttool2a-bff-facade]'" />
   </component>
 </application>
