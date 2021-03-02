@@ -18,6 +18,10 @@
           <option name="url" value="git@gitlab.qiaofangyun.com:Architecture/qf-generator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.qiaofangyun.com:marketing/qf-marketing-openapi58.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code\qf" />
