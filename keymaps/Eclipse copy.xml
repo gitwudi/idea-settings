@@ -5,7 +5,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="CopyPaths" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunToCursor" />
 </keymap>
