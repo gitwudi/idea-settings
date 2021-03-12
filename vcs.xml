@@ -34,6 +34,10 @@
           <option name="url" value="git@igit.58corp.com:broker_architx/architx-src.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@igit.58corp.com:_broker-architx/ajk-maven-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\code" />
